@@ -46,9 +46,9 @@ Check out my QA work with test cases, bug reports, API testing samples, and docs
 ## 📫 Get in Touch
 
 Let’s connect!  
-📧 Email: (masukkan email kamu)  
-🔗 LinkedIn: (masukkan LinkedIn kamu)  
-🌐 Portfolio Website: (opsional)
+📧 Email: fiergyano@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/fiergyano-rizky-ramadhan-bb6701196/
+
 
 ---
 
