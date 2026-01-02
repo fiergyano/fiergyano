@@ -31,7 +31,7 @@ Always open to collaborate on testing projects or share knowledge! :contentRefer
 🧰 **Testing Tools:** Postman, Jira  
 🧰 **Languages / Skills:** SQL (Basic), Git & GitHub  
 🧰 **Automation:** Selenium / Java (Beginner)  
-🧰 
+
 
 ---
 
@@ -54,7 +54,7 @@ Let’s connect!
 
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=fiergyano&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fiergyano&show_icons=true&theme=radical)
 
 ---
 
