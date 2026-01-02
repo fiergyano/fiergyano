@@ -24,7 +24,7 @@ for outstanding performance and leadership.
 - 📌 SDLC & STLC Process
 - 🔄 Regression Testing
 - 🔧 Automation (Selenium basics / beginner)
-- 📂 Documentation & QA Artifacts :contentReference[oaicite:2]{index=2}
+- 📂 Documentation & QA Artifacts
 
 ---
 
