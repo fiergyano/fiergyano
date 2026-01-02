@@ -31,7 +31,7 @@ Always open to collaborate on testing projects or share knowledge! :contentRefer
 🧰 **Testing Tools:** Postman, Jira  
 🧰 **Languages / Skills:** SQL (Basic), Git & GitHub  
 🧰 **Automation:** Selenium / Java (Beginner)  
-🧰 **Collaboration:** Markdown, Documentation Templates :contentReference[oaicite:3]{index=3}
+🧰 
 
 ---
 
