@@ -54,7 +54,7 @@ Let’s connect!
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fiergyano&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=fiergyano&theme=radical)
 
 ---
 
