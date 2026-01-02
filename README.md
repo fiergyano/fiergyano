@@ -8,9 +8,11 @@
 
 ## 🔍 About Me
 
-QA Engineer passionate about improving software quality with a strong foundation in manual testing, documentation, and automation fundamentals.  
-I enjoy finding bugs, writing clear test cases, and learning tools to make testing more effective.  
-Always open to collaborate on testing projects or share knowledge! :contentReference[oaicite:1]{index=1}
+Quality Assurance professional with over 2 years of experience in software testing, QA process improvement,
+and team leadership. Proven expertise in manual testing, test case design, defect tracking, and end-user vali
+dation across web, mobile, and OTT platforms. Strong analytical mindset with experience collaborating cross
+functionally to ensure product quality, reliability, and user satisfaction. Recently promoted to QA Team Leader
+for outstanding performance and leadership.
 
 ---
 
@@ -53,8 +55,6 @@ Let’s connect!
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fiergyano&theme=radical)
 
 ---
 
